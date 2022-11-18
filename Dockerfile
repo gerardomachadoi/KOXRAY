@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM alpine:3.16.3
 
 ARG AUUID="6f100749-a076-436d-aac9-b9a0f1cde184"
 ARG CADDYIndexPage="https://github.com/AYJCSGM/mikutap/archive/master.zip"
